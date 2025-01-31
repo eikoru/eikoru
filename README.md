@@ -1,4 +1,4 @@
-<img width="1000" height="200" src="https://i.pinimg.com/originals/0c/75/31/0c753154257af31d1848edba62354a20.gif" align="center"/>
+<img width="1000" height="200" src="https://i.pinimg.com/originals/10/fa/b4/10fab47f86ee2700b93c67e36962db66.gif" align="center"/>
 
 <h1 align="center">Hello there 👋, I'm eiko</h1>
 <h3 align="center">I'm a second year student currently studying BSIT</h3>
@@ -13,7 +13,7 @@
   <li>🔭 I’m currently working on <strong>learning how to code</strong></li>
 </ul>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🚀 Languages & Tools I'm Learning:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
