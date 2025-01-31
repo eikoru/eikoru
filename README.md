@@ -1,4 +1,4 @@
-<img width="1000" height="200" src="https://i.pinimg.com/originals/fa/f3/de/faf3de5140615c53cbad70fcaba9f208.gif" align="center"/>
+<img width="1000" height="200" src="https://i.pinimg.com/originals/0c/75/31/0c753154257af31d1848edba62354a20.gif" align="center"/>
 
 <h1 align="center">Hello there 👋, I'm eiko</h1>
 <h3 align="center">I'm a second year student currently studying BSIT</h3>
