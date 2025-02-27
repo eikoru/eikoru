@@ -48,7 +48,7 @@
 
 <p align="center">____________________________________________________________</p>
 
-<p align="center"><img src="[htpps://github-readme-stats.vercel.app/api/top-langs?username=eikoru](https://github-readme-stats.vercel.app/api/top-langs?username=eikoru)" alt="eikoru" /></p>
+<p align="center"><img src="htpps://github-readme-stats.vercel.app/api/top-langs?username=eikoru](https://github-readme-stats.vercel.app/api/top-langs?username=eikoru" alt="eikoru" /></p>
 
 <p align="center">____________________________________________________________</p>
 
