@@ -48,7 +48,9 @@
 
 <p align="center">____________________________________________________________</p>
 
-<p align="center"><img src="htpps://github-readme-stats.vercel.app/api/top-langs?username=eikoru](https://github-readme-stats.vercel.app/api/top-langs?username=eikoru" alt="eikoru" /></p>
+<a href="https://github.com/eikoru/ u">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eikoru&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <p align="center">____________________________________________________________</p>
 
